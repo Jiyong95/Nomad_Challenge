@@ -1,0 +1,92 @@
+QUESTION 1 OF 15
+What is NodeJS
+Javascript outside of the browser
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 2 OF 15
+Where was Javascript designed to be
+In the browser
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 3 OF 15
+On the frontend there is only one programming language
+True
+CORRECT ANSWER
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 4 OF 15
+The programming language of the frontend is
+JavaScript
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 5 OF 15
+On the backend there is only one programming language
+False
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 6 OF 15
+If I don't like JS I can choose any other language for the frontend
+False
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 7 OF 15
+If I don't like JS I can choose any other language for the backend
+True
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 8 OF 15
+CORRECT
+How can I use Javascript on the backend
+With NodeJS
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 9 OF 15
+NodeJS comes with a lot of pre-built functionality out of the box
+False
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 10 OF 15
+The difference between NodeJS and Django is
+
+NodeJS is like a big toy that I have to learn how to use and Django is like a lego set that I can build piece by piece
+YOUR ANSWER
+
+Django is like a big toy that I have to learn how to use and Node is like a lego set that I can build piece by piece
+CORRECT ANSWER
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 11 OF 15
+NodeJS is great for real-time applications
+
+False
+YOUR ANSWER
+
+True
+CORRECT ANSWER
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 12 OF 15
+NodeJS is great for CRUD (Create, Read, Update, Delete) applications
+True
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 13 OF 15
+CORRECT
+NodeJS is great for hardware intensive applications
+False
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 14 OF 15
+
+Youtube uses NodeJS to compress video
+
+True
+YOUR ANSWER
+
+False
+CORRECT ANSWER
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+QUESTION 15 OF 15
+CORRECT
+Uber uses NodeJS to record the GPS locations of the drivers
+True

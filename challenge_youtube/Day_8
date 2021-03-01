@@ -1,0 +1,86 @@
+QUESTION 1 OF 12
+CORRECT
+How can we make express use pug as the view engine
+Using "app.set("view engine", "pug")
+
+
+
+QUESTION 2 OF 12
+CORRECT
+What is the default directory where express will look for the views
+/views
+
+
+
+QUESTION 3 OF 12
+CORRECT
+How can I change the default views directory to "/dist"
+Using "app.set("views", "/dist")"
+
+
+
+QUESTION 4 OF 12
+CORRECT
+How can I render a pug template from a controller
+Using "res.render(<TEMPLATE_NAME>)"
+
+
+
+QUESTION 5 OF 12
+CORRECT
+How can I reuse the same page structure using pug
+Creating templates and extending from them
+
+
+
+QUESTION 6 OF 12
+CORRECT
+What is a partial
+It's a piece of HTML code that I can reuse on pug
+
+
+
+QUESTION 7 OF 12
+INCORRECT
+How can I use the partial "footer.pug" inside of my "layout.pug"
+
+Using "extends /.footer" <= footer.pug의 layout을 불러오는 것. footer의 layout전체를 그대로 쓸 경우 하는 듯?
+YOUR ANSWER
+
+Using "include ./footer" <= 원하는 부분에 footer.pug layout을 삽입하는 것.
+CORRECT ANSWER
+
+
+
+QUESTION 8 OF 12
+CORRECT
+What is a "block" in pug
+It's a way of making space for dynamic content inside of a template
+
+
+
+QUESTION 9 OF 12
+CORRECT
+How can I do <span class="hello"> in pug
+span.hello
+
+
+
+QUESTION 10 OF 12
+CORRECT
+Doing ".hello" is the same as doing "div.hello" in pug
+True
+
+
+
+QUESTION 11 OF 12
+CORRECT
+How can we add information to all the templates at the same time
+Using res.locals
+
+
+
+QUESTION 12 OF 12
+CORRECT
+How can I render a template with a variable "name" from the controller
+Using "res.render(<TEMPLATE>, { name:"Nico"})"

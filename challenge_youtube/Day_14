@@ -1,0 +1,46 @@
+QUESTION 1 OF 10
+CORRECT
+What is PassportJS
+It's an authentication middleware
+QUESTION 2 OF 10
+CORRECT
+What is a Strategy in PassportJS
+It's an authentication mechanism
+QUESTION 3 OF 10
+CORRECT
+What is a Provider in PassportJS
+It's an external website that will authenticate the user
+QUESTION 4 OF 10
+CORRECT
+Where does passport store the sessions
+Cookies
+QUESTION 5 OF 10
+CORRECT
+How often are cookies sent to the server?
+Every Request
+QUESTION 6 OF 10
+CORRECT
+What is the name of the Strategy for username/password auth in Passport
+"local"
+QUESTION 7 OF 10
+CORRECT
+What is serialization in PassportJS
+Is a function where we can decide what information the cookie will have
+QUESTION 8 OF 10
+CORRECT
+What is deserialization in PassportJS
+Is a function where we turn the cookie into an user object
+QUESTION 9 OF 10
+INCORRECT
+After deserialization, how does passport gives us the user object?
+It puts it in 'res.locals'
+YOUR ANSWER
+It puts it in 'req.user'
+CORRECT ANSWER
+QUESTION 10 OF 10
+INCORRECT
+What happens if we don't use a CookieStore
+Nothing
+YOUR ANSWER
+The cookies will not be persistent
+CORRECT ANSWER

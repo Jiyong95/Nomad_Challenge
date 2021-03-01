@@ -1,0 +1,74 @@
+QUESTION 1 OF 15
+We need to use VSCode if we want to make a website.
+False
+
+
+QUESTION 2 OF 15
+If I make a mistake on HTML the browser will show an error.
+False
+
+
+QUESTION 3 OF 15
+A browser will always show some content even if the HTML is wrong.
+True
+
+
+QUESTION 4 OF 15
+I can write any tag I like on HTML, like <food>김치</food>
+Yes, but it will not have an effect on the browser.
+
+
+QUESTION 5 OF 15
+To make a heading on HTML I should write <h1>Title<h1>
+False
+
+
+QUESTION 6 OF 15
+What does 'ol' stand for?
+Ordered List
+
+
+QUESTION 7 OF 16
+What does 'ul' stand for?
+Unordered List
+
+
+QUESTION 8 OF 15
+What does 'li' stand for?
+List Item
+
+
+QUESTION 9 OF 15
+Why do we use attributes on our HTML tags?
+To give tags more information.
+
+
+QUESTION 10 OF 15
+What is the correct way of writing attributes?
+<tag attribute="value">
+
+
+QUESTION 11 OF 15
+Can I write any attribute that I want?
+Yes, but it will not have an effect on the browser.
+
+
+QUESTION 12 OF 15
+All attributes work for all tags.
+False
+
+
+QUESTION 13 OF 15
+If I give 'href' to a 'h1' it will become a title with a link.
+False
+CORRECT ANSWER
+
+
+QUESTION 14 OF 15
+'img' tag is a self closing tag.
+True
+
+
+QUESTION 15 OF 15
+What is a self closing tag?
+A tag that has no content, all information is provided via attributes.

@@ -1,0 +1,85 @@
+QUESTION 1 OF 14
+CORRECT
+What are the three arguments that middlewares have?
+request, response, next
+
+
+QUESTION 2 OF 14
+CORRECT
+What does the 'next' function do?
+It calls the next middleware
+
+
+QUESTION 3 OF 14
+CORRECT
+Routes are middlewares
+True
+
+
+QUESTION 4 OF 14
+CORRECT
+What is the difference between 'routes' and 'middlewares'
+A route is just a middleware that doesn't call "next" but uses "res" to terminate the connection.
+
+
+QUESTION 5 OF 14
+CORRECT
+How can I make a middleware be used in ALL the routes?
+Using "app.use(<MIDDLEWARE>)"
+
+
+QUESTION 6 OF 14
+CORRECT
+How can a middleware terminate a connection
+Using "res.end()"
+
+
+QUESTION 7 OF 14
+CORRECT
+What is the use of express.Router
+It allows us to break down our routes in small groups
+
+
+QUESTION 8 OF 14
+INCORRECT
+How can I include a Router in my app?
+Using "app.router(<ROUTER>)"
+YOUR ANSWER
+Using "app.use(<ROUTER>)"
+CORRECT ANSWER
+
+
+QUESTION 9 OF 14
+CORRECT
+What is the difference between "app.get" and "app.use"
+"app.get" is only called for GET requests, "app.use" is called for ALL requests
+
+
+QUESTION 10 OF 14
+CORRECT
+What does MVC mean
+Model View Controller
+
+
+QUESTION 11 OF 14
+CORRECT
+What is the M in MVC?
+Is what stores the data
+
+
+QUESTION 12 OF 14
+CORRECT
+What is the V in MVC?
+Is what we show to the user
+
+
+QUESTION 13 OF 14
+CORRECT
+What is the C in MVC?
+Is what handles the logic
+
+
+QUESTION 14 OF 14
+CORRECT
+MVC is something I can install
+No, it's just a pattern

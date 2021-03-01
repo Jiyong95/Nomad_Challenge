@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+  </head>
+  <body>
+    <h1>Create An Account</h1>
+    <form action="">
+    <div>
+      <h3>First name
+      <input type="text" placeholder="First name" required>
+      </h3>
+      </div>
+     <div>
+      <h3>Last name
+      <input type="text" placeholder="Last name"required>
+      </h3>
+      </div>
+       <div>
+      <h3>Email
+      <input type="email" placeholder="Email"required>
+      </h3>
+      </div>
+       <div>
+      <h3>Username
+      <input type="text" placeholder="Username"required>
+      </h3>
+      </div>
+       <div>
+      <h3>Password
+      <input type="password" placeholder="Password" minlength="10" required>
+      </h3>
+      </div>
+       <div>
+      <h3>Birth date
+      <input type="date" placeholder="yyyy/mm/dd"required>
+      </h3>
+      </div>
+      <div>
+        <datalist id="number">
+      <option value="0"></option>
+      <option value="10"></option>
+      <option value="20"></option>
+      <option value="30"></option>
+      <option value="40"></option>
+      <option value="50"></option>
+      <option value="60"></option>
+      <option value="70"></option>
+      <option value="80"></option>
+      <option value="90"></option>
+      <option value="100"></option>
+    </datalist>
+        <h3>How happy are you?
+      <input
+      list="number"
+      class="range"
+      value="10"
+      type="range"
+      min="0"
+      max="100"
+      step="10"
+    />
+        </h3>
+      </div>
+       <div>
+      <h3>What is your fav.color?
+      <input type="color" required>
+      </h3>
+      </div>
+      <input type="submit" value="Create Account">
+      </form>
+  </body>
+</html>

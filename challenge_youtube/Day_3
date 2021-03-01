@@ -1,0 +1,92 @@
+QUESTION 1 OF 18
+CORRECT
+A server is just a computer
+True
+
+QUESTION 2 OF 18
+CORRECT
+A server has to be online 24/7
+True
+
+QUESTION 3 OF 18
+CORRECT
+A server can be on a private network
+True
+
+QUESTION 4 OF 18
+CORRECT
+A server is a computer without network access
+False
+
+QUESTION 5 OF 18
+CORRECT
+Any computer can be a server
+True
+
+QUESTION 6 OF 18
+CORRECT
+What is a framework
+Lots of pre-made functions and utilities that somebody else wrote and that we can use
+
+QUESTION 7 OF 18
+CORRECT
+How does a framework help us
+It helps us accomplish complex things in few lines of code
+
+QUESTION 8 OF 18
+CORRECT
+What is the most popular NodeJS Framework
+ExpressJS
+
+QUESTION 9 OF 18
+CORRECT
+ExpressJS is not JS
+False
+
+QUESTION 10 OF 18
+CORRECT
+What does NPM stand for?
+Node Package Manager
+
+QUESTION 11 OF 18
+CORRECT
+What is NPM
+Is a tool to download and share NodeJS packages
+
+QUESTION 12 OF 18
+CORRECT
+ExpressJS is published as an NPM Pacakge
+True
+
+QUESTION 13 OF 18
+INCORRECT
+How can I create a NodeJS project
+Run 'node init' - YOUR ANSWER
+Create a package.json - CORRECT ANSWER
+
+QUESTION 14 OF 18
+CORRECT
+What is "package.json"
+Is a file where I save information about my project and the packages it needs to run
+
+QUESTION 15 OF 18
+INCORRECT
+How can I install Express
+node install express - YOUR ANSWER
+npm install express - CORRECT ANSWER
+
+QUESTION 16 OF 18
+CORRECT
+What is the node_modules folder
+Is where all the installed packages go
+
+QUESTION 17 OF 18
+CORRECT
+Why I should never share / upload my "node_modules"
+Because I can just share the package.json
+
+QUESTION 18 OF 18
+INCORRECT
+If I delete "node_modules" how can I reinstall my dependencies from my package.json
+Running: "npm install dependencies" - YOUR ANSWER
+Running: "npm install" - CORRECT ANSWER
